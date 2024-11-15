@@ -6,7 +6,7 @@ The purpose of this project is to utilize different econometric methods involvin
 Econometric methods utilized include model development, heteroskedasticity, weighted least squares, interaction terms, and logarithmic transformations
 These methods were implemented to develop a robust model in which its estimators are unbiased.
 Interaction terms were included to capture combined effects of certain variables beyond their individual ones.
-This is to be able to make reliable and accurate statistical inferences on the prescence of racial/gender inequality in the Australian population.
+This is done to be able to make reliable and accurate statistical inferences on the prescence of racial/gender inequality in the Australian population.
 
 
 
