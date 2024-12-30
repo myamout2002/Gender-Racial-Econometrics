@@ -1,0 +1,283 @@
+region,employstatus,englishproficiency,sex,indigenous,age,no_years_school,income,no_people
+Australian Capital Territory,"Employed, worked full-time",Not well,Female,Non-Indigenous,42.15625,11.20313,784.2448,192
+Australian Capital Territory,"Employed, worked full-time",Very well,Female,Non-Indigenous,38.49924,11.87432,1362.481,6580
+Australian Capital Territory,"Employed, worked full-time",Well,Female,Non-Indigenous,40.88588,11.71011,1079.286,1849
+Australian Capital Territory,"Employed, worked part-time",Not well,Female,Non-Indigenous,38.66667,11.43478,365.0966,207
+Australian Capital Territory,"Employed, worked part-time",Very well,Female,Non-Indigenous,37.48894,11.81949,758.1036,3119
+Australian Capital Territory,"Employed, worked part-time",Well,Female,Non-Indigenous,37.23538,11.62642,508.4662,1317
+Greater Adelaide,"Employed, worked full-time",Not at all,Female,Non-Indigenous,44.14286,9.428572,578.5714,21
+Greater Adelaide,"Employed, worked full-time",Not well,Female,Non-Indigenous,43.62037,10.80026,678.7368,756
+Greater Adelaide,"Employed, worked full-time",Very well,Female,Non-Indigenous,39.12812,11.77034,1112.079,13472
+Greater Adelaide,"Employed, worked full-time",Well,Female,Non-Indigenous,39.04571,11.64026,888.2879,3522
+Greater Adelaide,"Employed, worked part-time",Not at all,Female,Non-Indigenous,46.59459,11.59459,378.3784,37
+Greater Adelaide,"Employed, worked part-time",Not well,Female,Non-Indigenous,41.25507,10.73421,371.0667,839
+Greater Adelaide,"Employed, worked part-time",Very well,Female,Non-Indigenous,39.67161,11.63255,615.6074,11392
+Greater Adelaide,"Employed, worked part-time",Well,Female,Non-Indigenous,37.62959,11.54485,459.7397,4225
+Greater Brisbane,"Employed, worked full-time",Very well,Female,Aboriginal and/or Torres Strait Islander,39.1875,12,1242.188,16
+Greater Brisbane,"Employed, worked full-time",Not at all,Female,Non-Indigenous,37.91549,9.957747,820.7747,71
+Greater Brisbane,"Employed, worked full-time",Not well,Female,Non-Indigenous,42.27338,10.85103,674.5245,1262
+Greater Brisbane,"Employed, worked full-time",Very well,Female,Non-Indigenous,37.80056,11.80193,1163.048,21179
+Greater Brisbane,"Employed, worked full-time",Well,Female,Non-Indigenous,39.63812,11.57437,888.7966,6353
+Greater Brisbane,"Employed, worked part-time",Very well,Female,Aboriginal and/or Torres Strait Islander,27,12,500,3
+Greater Brisbane,"Employed, worked part-time",Not at all,Female,Non-Indigenous,48.53846,9.038462,461.5385,26
+Greater Brisbane,"Employed, worked part-time",Not well,Female,Non-Indigenous,41.55209,10.93099,398.8222,1507
+Greater Brisbane,"Employed, worked part-time",Very well,Female,Non-Indigenous,37.3879,11.73062,638.3112,13483
+Greater Brisbane,"Employed, worked part-time",Well,Female,Non-Indigenous,36.99295,11.62819,461.2334,6385
+Greater Darwin,"Employed, worked full-time",Very well,Female,Aboriginal and/or Torres Strait Islander,36.5,10.9,887.5,10
+Greater Darwin,"Employed, worked full-time",Not well,Female,Non-Indigenous,41.13044,10.65217,697.8261,46
+Greater Darwin,"Employed, worked full-time",Very well,Female,Non-Indigenous,38.19019,11.80194,1158.056,1651
+Greater Darwin,"Employed, worked full-time",Well,Female,Non-Indigenous,39.22411,11.41766,863.6248,589
+Greater Darwin,"Employed, worked part-time",Very well,Female,Aboriginal and/or Torres Strait Islander,22,12,1125,3
+Greater Darwin,"Employed, worked part-time",Not at all,Female,Non-Indigenous,39.5,7,375,6
+Greater Darwin,"Employed, worked part-time",Not well,Female,Non-Indigenous,40.15789,10.42105,484.2105,57
+Greater Darwin,"Employed, worked part-time",Very well,Female,Non-Indigenous,35.96075,11.7907,711.9186,688
+Greater Darwin,"Employed, worked part-time",Well,Female,Non-Indigenous,37.44872,11.40513,532.7564,390
+Greater Hobart,"Employed, worked full-time",Not well,Female,Non-Indigenous,27,12,900,3
+Greater Hobart,"Employed, worked full-time",Very well,Female,Non-Indigenous,40.10432,11.79644,1160.305,786
+Greater Hobart,"Employed, worked full-time",Well,Female,Non-Indigenous,35.61979,11.90625,832.5521,192
+Greater Hobart,"Employed, worked part-time",Not well,Female,Non-Indigenous,26.72222,12,225,18
+Greater Hobart,"Employed, worked part-time",Very well,Female,Non-Indigenous,38.81351,11.74596,608.2599,681
+Greater Hobart,"Employed, worked part-time",Well,Female,Non-Indigenous,35.659,11.67816,354.7893,261
+Greater Melbourne,"Employed, worked full-time",Very well,Female,Aboriginal and/or Torres Strait Islander,42,12,1416.667,9
+Greater Melbourne,"Employed, worked full-time",Not at all,Female,Non-Indigenous,45.85714,10.04675,633.1818,385
+Greater Melbourne,"Employed, worked full-time",Not well,Female,Non-Indigenous,44.66045,10.56976,677.5506,5734
+Greater Melbourne,"Employed, worked full-time",Very well,Female,Non-Indigenous,37.37703,11.80041,1142.823,83746
+Greater Melbourne,"Employed, worked full-time",Well,Female,Non-Indigenous,40.44848,11.51637,868.8816,24128
+Greater Melbourne,"Employed, worked part-time",Very well,Female,Aboriginal and/or Torres Strait Islander,22,12,350,3
+Greater Melbourne,"Employed, worked part-time",Not at all,Female,Non-Indigenous,46.72527,9.840659,348.0769,364
+Greater Melbourne,"Employed, worked part-time",Not well,Female,Non-Indigenous,43.43921,10.69633,393.0553,5371
+Greater Melbourne,"Employed, worked part-time",Very well,Female,Non-Indigenous,38.44205,11.68106,612.6593,55487
+Greater Melbourne,"Employed, worked part-time",Well,Female,Non-Indigenous,38.91204,11.49049,469.596,21077
+Greater Perth,"Employed, worked full-time",Very well,Female,Aboriginal and/or Torres Strait Islander,50.46154,10.69231,1003.846,13
+Greater Perth,"Employed, worked full-time",Not at all,Female,Non-Indigenous,43.07143,9.214286,632.1429,42
+Greater Perth,"Employed, worked full-time",Not well,Female,Non-Indigenous,43.40123,10.45789,727.3545,1306
+Greater Perth,"Employed, worked full-time",Very well,Female,Non-Indigenous,37.96956,11.74994,1223.011,20927
+Greater Perth,"Employed, worked full-time",Well,Female,Non-Indigenous,39.19715,11.56179,949.9465,6538
+Greater Perth,"Employed, worked part-time",Very well,Female,Aboriginal and/or Torres Strait Islander,39.5,11,500,6
+Greater Perth,"Employed, worked part-time",Not at all,Female,Non-Indigenous,44.26415,9.377358,381.1321,53
+Greater Perth,"Employed, worked part-time",Not well,Female,Non-Indigenous,41.03583,10.53094,405.342,1535
+Greater Perth,"Employed, worked part-time",Very well,Female,Non-Indigenous,39.21735,11.60766,636.7162,15726
+Greater Perth,"Employed, worked part-time",Well,Female,Non-Indigenous,38.10109,11.51724,475.3964,6875
+Greater Sydney,"Employed, worked full-time",Very well,Female,Aboriginal and/or Torres Strait Islander,31.44444,11.44444,1021.296,27
+Greater Sydney,"Employed, worked full-time",Not at all,Female,Non-Indigenous,48.71811,10.19342,626.1317,486
+Greater Sydney,"Employed, worked full-time",Not well,Female,Non-Indigenous,46.2735,10.85913,698.2191,8128
+Greater Sydney,"Employed, worked full-time",Very well,Female,Non-Indigenous,37.47504,11.78033,1223.083,111558
+Greater Sydney,"Employed, worked full-time",Well,Female,Non-Indigenous,41.51528,11.60023,939.8093,36526
+Greater Sydney,"Employed, worked part-time",Not at all,Female,Non-Indigenous,48.71304,10.05217,334.8696,575
+Greater Sydney,"Employed, worked part-time",Not well,Female,Non-Indigenous,44.38403,10.91311,404.9179,7976
+Greater Sydney,"Employed, worked part-time",Very well,Female,Non-Indigenous,37.75681,11.67132,653.8038,59513
+Greater Sydney,"Employed, worked part-time",Well,Female,Non-Indigenous,39.56224,11.54603,494.1185,26592
+Rest of NSW,"Employed, worked full-time",Very well,Female,Aboriginal and/or Torres Strait Islander,41.25926,11.07407,1441.667,27
+Rest of NSW,"Employed, worked full-time",Not at all,Female,Non-Indigenous,32.52632,9.052631,789.4737,19
+Rest of NSW,"Employed, worked full-time",Not well,Female,Non-Indigenous,40.7069,10.56034,687.069,348
+Rest of NSW,"Employed, worked full-time",Very well,Female,Non-Indigenous,40.66042,11.54621,1113.421,7898
+Rest of NSW,"Employed, worked full-time",Well,Female,Non-Indigenous,41.5756,11.2715,859.1343,1779
+Rest of NSW,"Employed, worked part-time",Very well,Female,Aboriginal and/or Torres Strait Islander,39.64706,11.29412,508.8235,17
+Rest of NSW,"Employed, worked part-time",Not well,Female,Non-Indigenous,41.76563,10.61384,367.6897,448
+Rest of NSW,"Employed, worked part-time",Very well,Female,Non-Indigenous,41.33812,11.38837,623.191,6965
+Rest of NSW,"Employed, worked part-time",Well,Female,Non-Indigenous,40.87935,11.18455,457.4392,2097
+Rest of NT,"Employed, worked full-time",Not well,Female,Aboriginal and/or Torres Strait Islander,39.5,8.5,375,6
+Rest of NT,"Employed, worked full-time",Very well,Female,Aboriginal and/or Torres Strait Islander,39.22119,10.01859,604.9721,538
+Rest of NT,"Employed, worked full-time",Well,Female,Aboriginal and/or Torres Strait Islander,38.27168,9.248555,498.8439,173
+Rest of NT,"Employed, worked full-time",Not at all,Female,Non-Indigenous,27,12,500,3
+Rest of NT,"Employed, worked full-time",Not well,Female,Non-Indigenous,32.96154,11.23077,669.2308,26
+Rest of NT,"Employed, worked full-time",Very well,Female,Non-Indigenous,37.64487,11.87103,1194.302,566
+Rest of NT,"Employed, worked full-time",Well,Female,Non-Indigenous,35.80368,11.96319,903.5276,163
+Rest of NT,"Employed, worked part-time",Not well,Female,Aboriginal and/or Torres Strait Islander,41,7.2,280,30
+Rest of NT,"Employed, worked part-time",Very well,Female,Aboriginal and/or Torres Strait Islander,38.39175,9.832106,410.6407,679
+Rest of NT,"Employed, worked part-time",Well,Female,Aboriginal and/or Torres Strait Islander,35.55072,8.698068,353.8647,414
+Rest of NT,"Employed, worked part-time",Not well,Female,Non-Indigenous,27,12,500,5
+Rest of NT,"Employed, worked part-time",Very well,Female,Non-Indigenous,35.875,11.95,816.0417,120
+Rest of NT,"Employed, worked part-time",Well,Female,Non-Indigenous,36.74359,11.30769,521.7949,39
+Rest of Qld,"Employed, worked full-time",Not well,Female,Aboriginal and/or Torres Strait Islander,49.5,10.5,700,6
+Rest of Qld,"Employed, worked full-time",Very well,Female,Aboriginal and/or Torres Strait Islander,37.79167,11.31667,831.0938,480
+Rest of Qld,"Employed, worked full-time",Well,Female,Aboriginal and/or Torres Strait Islander,36.62838,11.32432,683.277,148
+Rest of Qld,"Employed, worked full-time",Not at all,Female,Non-Indigenous,38.95652,10.43478,715.2174,23
+Rest of Qld,"Employed, worked full-time",Not well,Female,Non-Indigenous,35.43892,10.73303,685.9351,663
+Rest of Qld,"Employed, worked full-time",Very well,Female,Non-Indigenous,40.09585,11.66464,1066.214,9390
+Rest of Qld,"Employed, worked full-time",Well,Female,Non-Indigenous,39.66529,11.51052,822.4362,2662
+Rest of Qld,"Employed, worked part-time",Not well,Female,Aboriginal and/or Torres Strait Islander,22,12,250,3
+Rest of Qld,"Employed, worked part-time",Very well,Female,Aboriginal and/or Torres Strait Islander,37.77626,11.03196,508.7899,219
+Rest of Qld,"Employed, worked part-time",Well,Female,Aboriginal and/or Torres Strait Islander,39.15447,10.79675,385.7724,123
+Rest of Qld,"Employed, worked part-time",Not at all,Female,Non-Indigenous,31.82143,11.10714,335.7143,28
+Rest of Qld,"Employed, worked part-time",Not well,Female,Non-Indigenous,36.9922,11.23401,395.5928,641
+Rest of Qld,"Employed, worked part-time",Very well,Female,Non-Indigenous,40.01547,11.57876,590.1567,7561
+Rest of Qld,"Employed, worked part-time",Well,Female,Non-Indigenous,38.59591,11.46213,460.6292,3274
+Rest of SA,"Employed, worked full-time",Very well,Female,Aboriginal and/or Torres Strait Islander,35.57143,10.92857,655.3571,28
+Rest of SA,"Employed, worked full-time",Not well,Female,Non-Indigenous,33.42857,11.15873,685.7143,63
+Rest of SA,"Employed, worked full-time",Very well,Female,Non-Indigenous,40.91272,11.73077,1124.926,676
+Rest of SA,"Employed, worked full-time",Well,Female,Non-Indigenous,36.01841,11.65644,862.8834,163
+Rest of SA,"Employed, worked part-time",Very well,Female,Aboriginal and/or Torres Strait Islander,30.33333,10.44444,388.8889,27
+Rest of SA,"Employed, worked part-time",Well,Female,Aboriginal and/or Torres Strait Islander,31,8.7,280,10
+Rest of SA,"Employed, worked part-time",Not well,Female,Non-Indigenous,27.35714,10.92857,250,14
+Rest of SA,"Employed, worked part-time",Very well,Female,Non-Indigenous,42.52727,11.65273,573,550
+Rest of SA,"Employed, worked part-time",Well,Female,Non-Indigenous,38.43293,11.55488,414.0244,164
+Rest of Tas.,"Employed, worked full-time",Very well,Female,Non-Indigenous,40.41177,11.82353,1143,425
+Rest of Tas.,"Employed, worked full-time",Well,Female,Non-Indigenous,38.18056,11.54167,798.6111,72
+Rest of Tas.,"Employed, worked part-time",Not well,Female,Non-Indigenous,33.42857,12,528.5714,7
+Rest of Tas.,"Employed, worked part-time",Very well,Female,Non-Indigenous,42.19523,11.68981,575.1627,461
+Rest of Tas.,"Employed, worked part-time",Well,Female,Non-Indigenous,34.80992,11.82645,413.6364,121
+Rest of Vic.,"Employed, worked full-time",Not at all,Female,Non-Indigenous,37,9.5,600,6
+Rest of Vic.,"Employed, worked full-time",Not well,Female,Non-Indigenous,36.46043,10.84173,622.3022,139
+Rest of Vic.,"Employed, worked full-time",Very well,Female,Non-Indigenous,40.28239,11.63741,1047.372,4090
+Rest of Vic.,"Employed, worked full-time",Well,Female,Non-Indigenous,39.59703,11.42352,860.7877,876
+Rest of Vic.,"Employed, worked part-time",Not well,Female,Non-Indigenous,38.17424,11.07576,415.5303,132
+Rest of Vic.,"Employed, worked part-time",Very well,Female,Non-Indigenous,42.02935,11.43069,570.8776,3578
+Rest of Vic.,"Employed, worked part-time",Well,Female,Non-Indigenous,40.55769,11.23718,459.4284,936
+Rest of WA,"Employed, worked full-time",Very well,Female,Aboriginal and/or Torres Strait Islander,36.65517,10.66667,842.8161,87
+Rest of WA,"Employed, worked full-time",Well,Female,Aboriginal and/or Torres Strait Islander,32,10.5,350,6
+Rest of WA,"Employed, worked full-time",Not well,Female,Non-Indigenous,31.33673,11.72449,685.9694,98
+Rest of WA,"Employed, worked full-time",Very well,Female,Non-Indigenous,39.25239,11.69482,1205.178,1989
+Rest of WA,"Employed, worked full-time",Well,Female,Non-Indigenous,36.7307,11.59605,954.4883,557
+Rest of WA,"Employed, worked part-time",Very well,Female,Aboriginal and/or Torres Strait Islander,34.39766,10.22222,309.3567,171
+Rest of WA,"Employed, worked part-time",Well,Female,Aboriginal and/or Torres Strait Islander,36.47917,9.104167,333.3333,48
+Rest of WA,"Employed, worked part-time",Not well,Female,Non-Indigenous,37.92308,10.90769,454.6154,65
+Rest of WA,"Employed, worked part-time",Very well,Female,Non-Indigenous,40.73999,11.63074,608.3758,1373
+Rest of WA,"Employed, worked part-time",Well,Female,Non-Indigenous,38.24542,11.28755,497.6648,546
+Australian Capital Territory,"Employed, worked full-time",Very well,Male,Aboriginal and/or Torres Strait Islander,33.66667,12,1666.667,9
+Australian Capital Territory,"Employed, worked full-time",Not at all,Male,Non-Indigenous,49.5,12,700,6
+Australian Capital Territory,"Employed, worked full-time",Not well,Male,Non-Indigenous,42.52786,11.29032,914.5894,341
+Australian Capital Territory,"Employed, worked full-time",Very well,Male,Non-Indigenous,38.94412,11.85123,1558.079,9323
+Australian Capital Territory,"Employed, worked full-time",Well,Male,Non-Indigenous,41.31594,11.67707,1232.426,2434
+Australian Capital Territory,"Employed, worked part-time",Not well,Male,Non-Indigenous,40.35938,11.46875,435.5469,128
+Australian Capital Territory,"Employed, worked part-time",Very well,Male,Non-Indigenous,34.27245,11.90054,757.6552,1659
+Australian Capital Territory,"Employed, worked part-time",Well,Male,Non-Indigenous,32.87385,11.88436,538.7976,761
+Greater Adelaide,"Employed, worked full-time",Very well,Male,Aboriginal and/or Torres Strait Islander,42,11.5,1700,6
+Greater Adelaide,"Employed, worked full-time",Not at all,Male,Non-Indigenous,40.33333,10.83333,666.6667,18
+Greater Adelaide,"Employed, worked full-time",Not well,Male,Non-Indigenous,42.85357,10.81411,807.8907,1318
+Greater Adelaide,"Employed, worked full-time",Very well,Male,Non-Indigenous,39.73294,11.66155,1250.255,22216
+Greater Adelaide,"Employed, worked full-time",Well,Male,Non-Indigenous,40.33097,11.44654,972.5436,7043
+Greater Adelaide,"Employed, worked part-time",Very well,Male,Aboriginal and/or Torres Strait Islander,24.5,11,500,6
+Greater Adelaide,"Employed, worked part-time",Not at all,Male,Non-Indigenous,48.25,9.5625,268.75,16
+Greater Adelaide,"Employed, worked part-time",Not well,Male,Non-Indigenous,41.47934,10.81322,409.0909,605
+Greater Adelaide,"Employed, worked part-time",Very well,Male,Non-Indigenous,35.84983,11.67674,617.921,5760
+Greater Adelaide,"Employed, worked part-time",Well,Male,Non-Indigenous,34.62851,11.63292,484.2006,3171
+Greater Brisbane,"Employed, worked full-time",Very well,Male,Aboriginal and/or Torres Strait Islander,31.34783,11.86957,1129.348,46
+Greater Brisbane,"Employed, worked full-time",Not at all,Male,Non-Indigenous,37.36765,10.71323,879.0441,136
+Greater Brisbane,"Employed, worked full-time",Not well,Male,Non-Indigenous,42.93013,10.80241,856.5248,2161
+Greater Brisbane,"Employed, worked full-time",Very well,Male,Non-Indigenous,38.59087,11.75385,1385.551,32391
+Greater Brisbane,"Employed, worked full-time",Well,Male,Non-Indigenous,40.63535,11.5362,1063.317,10761
+Greater Brisbane,"Employed, worked part-time",Very well,Male,Aboriginal and/or Torres Strait Islander,27,12,300,6
+Greater Brisbane,"Employed, worked part-time",Not at all,Male,Non-Indigenous,39.22222,11.14815,440.7408,27
+Greater Brisbane,"Employed, worked part-time",Not well,Male,Non-Indigenous,39.87285,11.09273,484.0583,1046
+Greater Brisbane,"Employed, worked part-time",Very well,Male,Non-Indigenous,33.75384,11.78296,648.6957,7418
+Greater Brisbane,"Employed, worked part-time",Well,Male,Non-Indigenous,34.11127,11.68734,521.1965,4772
+Greater Darwin,"Employed, worked full-time",Very well,Male,Aboriginal and/or Torres Strait Islander,27,12,1125,3
+Greater Darwin,"Employed, worked full-time",Not at all,Male,Non-Indigenous,37,9.5,800,6
+Greater Darwin,"Employed, worked full-time",Not well,Male,Non-Indigenous,42.62069,9.903448,1033.966,145
+Greater Darwin,"Employed, worked full-time",Very well,Male,Non-Indigenous,38.25,11.64262,1364.272,2384
+Greater Darwin,"Employed, worked full-time",Well,Male,Non-Indigenous,40.58306,11.30185,1105.7,921
+Greater Darwin,"Employed, worked part-time",Not well,Male,Non-Indigenous,38.66667,10.33333,566.6667,9
+Greater Darwin,"Employed, worked part-time",Very well,Male,Non-Indigenous,33.84132,11.90419,771.7066,334
+Greater Darwin,"Employed, worked part-time",Well,Male,Non-Indigenous,34.70386,11.81545,550.2146,233
+Greater Hobart,"Employed, worked full-time",Not well,Male,Non-Indigenous,37.58823,12,732.353,17
+Greater Hobart,"Employed, worked full-time",Very well,Male,Non-Indigenous,40.92996,11.73697,1343.035,1285
+Greater Hobart,"Employed, worked full-time",Well,Male,Non-Indigenous,38.16041,11.86007,951.7918,293
+Greater Hobart,"Employed, worked part-time",Not well,Male,Non-Indigenous,24.72727,12,329.5454,22
+Greater Hobart,"Employed, worked part-time",Very well,Male,Non-Indigenous,34.84575,11.85904,658.7101,376
+Greater Hobart,"Employed, worked part-time",Well,Male,Non-Indigenous,30.28402,11.68047,323.9645,169
+Greater Melbourne,"Employed, worked full-time",Very well,Male,Aboriginal and/or Torres Strait Islander,33.47059,11.64706,1525,17
+Greater Melbourne,"Employed, worked full-time",Not at all,Male,Non-Indigenous,47.31197,10.27656,761.0034,593
+Greater Melbourne,"Employed, worked full-time",Not well,Male,Non-Indigenous,45.34562,10.46329,832.6157,10173
+Greater Melbourne,"Employed, worked full-time",Very well,Male,Non-Indigenous,38.44914,11.67577,1298.517,138451
+Greater Melbourne,"Employed, worked full-time",Well,Male,Non-Indigenous,41.67487,11.37923,999.2729,46212
+Greater Melbourne,"Employed, worked part-time",Very well,Male,Aboriginal and/or Torres Strait Islander,28.42857,12,442.8571,7
+Greater Melbourne,"Employed, worked part-time",Not at all,Male,Non-Indigenous,46.74276,10.18328,419.9357,311
+Greater Melbourne,"Employed, worked part-time",Not well,Male,Non-Indigenous,43.11819,10.67361,449.0804,4078
+Greater Melbourne,"Employed, worked part-time",Very well,Male,Non-Indigenous,34.52598,11.70353,618.0871,28870
+Greater Melbourne,"Employed, worked part-time",Well,Male,Non-Indigenous,35.82448,11.51378,502.0672,17052
+Greater Perth,"Employed, worked full-time",Very well,Male,Aboriginal and/or Torres Strait Islander,36.28571,11.14286,1603.571,21
+Greater Perth,"Employed, worked full-time",Not at all,Male,Non-Indigenous,42.9507,10.41549,915.669,142
+Greater Perth,"Employed, worked full-time",Not well,Male,Non-Indigenous,42.78003,10.61154,1022.816,2564
+Greater Perth,"Employed, worked full-time",Very well,Male,Non-Indigenous,39.13613,11.6783,1516.639,36304
+Greater Perth,"Employed, worked full-time",Well,Male,Non-Indigenous,40.35976,11.43117,1174.203,13431
+Greater Perth,"Employed, worked part-time",Not at all,Male,Non-Indigenous,44.1875,10.125,387.5,32
+Greater Perth,"Employed, worked part-time",Not well,Male,Non-Indigenous,40.72581,10.83441,471.1559,930
+Greater Perth,"Employed, worked part-time",Very well,Male,Non-Indigenous,34.85656,11.74057,707.4929,7397
+Greater Perth,"Employed, worked part-time",Well,Male,Non-Indigenous,34.79052,11.62997,536.1621,4578
+Greater Sydney,"Employed, worked full-time",Very well,Male,Aboriginal and/or Torres Strait Islander,35.30882,11.58823,1432.353,68
+Greater Sydney,"Employed, worked full-time",Well,Male,Aboriginal and/or Torres Strait Islander,27,10,700,4
+Greater Sydney,"Employed, worked full-time",Not at all,Male,Non-Indigenous,47.07901,10.46275,733.3804,886
+Greater Sydney,"Employed, worked full-time",Not well,Male,Non-Indigenous,46.48428,10.75266,830.968,14029
+Greater Sydney,"Employed, worked full-time",Very well,Male,Non-Indigenous,38.43026,11.68825,1372.633,169067
+Greater Sydney,"Employed, worked full-time",Well,Male,Non-Indigenous,42.69522,11.46233,1048.368,60578
+Greater Sydney,"Employed, worked part-time",Not at all,Male,Non-Indigenous,48.21622,10.13682,409.7973,592
+Greater Sydney,"Employed, worked part-time",Not well,Male,Non-Indigenous,43.97646,10.88322,470.4868,6542
+Greater Sydney,"Employed, worked part-time",Very well,Male,Non-Indigenous,34.72425,11.68209,657.4942,33299
+Greater Sydney,"Employed, worked part-time",Well,Male,Non-Indigenous,37.77965,11.51472,535.0995,21157
+Rest of NSW,"Employed, worked full-time",Very well,Male,Aboriginal and/or Torres Strait Islander,39.125,11.05,1185.625,40
+Rest of NSW,"Employed, worked full-time",Well,Male,Aboriginal and/or Torres Strait Islander,27,12,700,3
+Rest of NSW,"Employed, worked full-time",Not at all,Male,Non-Indigenous,39.75862,8.551724,858.6207,29
+Rest of NSW,"Employed, worked full-time",Not well,Male,Non-Indigenous,43.59174,10.52734,841.373,823
+Rest of NSW,"Employed, worked full-time",Very well,Male,Non-Indigenous,40.6875,11.43808,1347.788,14221
+Rest of NSW,"Employed, worked full-time",Well,Male,Non-Indigenous,42.44615,11.14464,1071.732,3519
+Rest of NSW,"Employed, worked part-time",Very well,Male,Aboriginal and/or Torres Strait Islander,30.52941,11.64706,479.4118,17
+Rest of NSW,"Employed, worked part-time",Not at all,Male,Non-Indigenous,32,11.18182,295.4546,11
+Rest of NSW,"Employed, worked part-time",Not well,Male,Non-Indigenous,39.61993,10.76015,415.4982,271
+Rest of NSW,"Employed, worked part-time",Very well,Male,Non-Indigenous,38.70134,11.40839,682.8524,2980
+Rest of NSW,"Employed, worked part-time",Well,Male,Non-Indigenous,37.71296,11.4287,509.7624,1073
+Rest of NT,"Employed, worked full-time",Not well,Male,Aboriginal and/or Torres Strait Islander,31.16667,9.166667,483.3333,18
+Rest of NT,"Employed, worked full-time",Very well,Male,Aboriginal and/or Torres Strait Islander,37.44444,9.961111,624.2361,720
+Rest of NT,"Employed, worked full-time",Well,Male,Aboriginal and/or Torres Strait Islander,35.41539,8.753846,491.0769,325
+Rest of NT,"Employed, worked full-time",Not well,Male,Non-Indigenous,28.92308,12,633.6539,26
+Rest of NT,"Employed, worked full-time",Very well,Male,Non-Indigenous,38.6018,11.77096,1401.272,668
+Rest of NT,"Employed, worked full-time",Well,Male,Non-Indigenous,36.55947,11.67401,1159.692,227
+Rest of NT,"Employed, worked part-time",Not well,Male,Aboriginal and/or Torres Strait Islander,35.125,7.225,273.75,40
+Rest of NT,"Employed, worked part-time",Very well,Male,Aboriginal and/or Torres Strait Islander,37.19435,9.469965,363.8693,566
+Rest of NT,"Employed, worked part-time",Well,Male,Aboriginal and/or Torres Strait Islander,34.42857,8.742857,338.9011,455
+Rest of NT,"Employed, worked part-time",Not well,Male,Non-Indigenous,27,12,500,3
+Rest of NT,"Employed, worked part-time",Very well,Male,Non-Indigenous,41.78261,11.86957,585.3261,46
+Rest of NT,"Employed, worked part-time",Well,Male,Non-Indigenous,30.71428,11.77143,604.2857,35
+Rest of Qld,"Employed, worked full-time",Not well,Male,Aboriginal and/or Torres Strait Islander,57,7,700,3
+Rest of Qld,"Employed, worked full-time",Very well,Male,Aboriginal and/or Torres Strait Islander,39.07192,10.85616,846.7038,584
+Rest of Qld,"Employed, worked full-time",Well,Male,Aboriginal and/or Torres Strait Islander,37.17413,10.87065,701.2438,201
+Rest of Qld,"Employed, worked full-time",Not at all,Male,Non-Indigenous,34.9661,10.94915,872.4576,59
+Rest of Qld,"Employed, worked full-time",Not well,Male,Non-Indigenous,38.8051,10.84786,834.3133,1216
+Rest of Qld,"Employed, worked full-time",Very well,Male,Non-Indigenous,40.33608,11.57182,1350.605,15169
+Rest of Qld,"Employed, worked full-time",Well,Male,Non-Indigenous,39.96053,11.46795,1049.326,4712
+Rest of Qld,"Employed, worked part-time",Not well,Male,Aboriginal and/or Torres Strait Islander,44.25,9.25,317.5,20
+Rest of Qld,"Employed, worked part-time",Very well,Male,Aboriginal and/or Torres Strait Islander,35.04813,10.59358,394.6524,187
+Rest of Qld,"Employed, worked part-time",Well,Male,Aboriginal and/or Torres Strait Islander,34.80864,10.7037,313.5803,162
+Rest of Qld,"Employed, worked part-time",Not at all,Male,Non-Indigenous,25.46154,12,407.6923,13
+Rest of Qld,"Employed, worked part-time",Not well,Male,Non-Indigenous,35.09361,11.60274,463.5274,438
+Rest of Qld,"Employed, worked part-time",Very well,Male,Non-Indigenous,37.16134,11.67791,705.814,3440
+Rest of Qld,"Employed, worked part-time",Well,Male,Non-Indigenous,36.50614,11.63413,533.2262,1711
+Rest of SA,"Employed, worked full-time",Very well,Male,Aboriginal and/or Torres Strait Islander,38.36364,10.45455,977.2727,33
+Rest of SA,"Employed, worked full-time",Well,Male,Aboriginal and/or Torres Strait Islander,22,10,500,3
+Rest of SA,"Employed, worked full-time",Not at all,Male,Non-Indigenous,47,12,900,3
+Rest of SA,"Employed, worked full-time",Not well,Male,Non-Indigenous,32.82524,10.64078,751.2136,103
+Rest of SA,"Employed, worked full-time",Very well,Male,Non-Indigenous,41.82456,11.52632,1344.585,1482
+Rest of SA,"Employed, worked full-time",Well,Male,Non-Indigenous,36.46518,11.58209,1009.764,402
+Rest of SA,"Employed, worked part-time",Very well,Male,Aboriginal and/or Torres Strait Islander,34.05882,11,402.9412,17
+Rest of SA,"Employed, worked part-time",Well,Male,Aboriginal and/or Torres Strait Islander,34.69231,7.461538,326.9231,13
+Rest of SA,"Employed, worked part-time",Not well,Male,Non-Indigenous,24.77778,12,400,18
+Rest of SA,"Employed, worked part-time",Very well,Male,Non-Indigenous,42.11261,11.45496,658.1081,222
+Rest of SA,"Employed, worked part-time",Well,Male,Non-Indigenous,35.15789,11.49123,536.8421,57
+Rest of Tas.,"Employed, worked full-time",Not at all,Male,Non-Indigenous,27,12,700,3
+Rest of Tas.,"Employed, worked full-time",Not well,Male,Non-Indigenous,37,12,700,12
+Rest of Tas.,"Employed, worked full-time",Very well,Male,Non-Indigenous,40.84949,11.69754,1422.54,691
+Rest of Tas.,"Employed, worked full-time",Well,Male,Non-Indigenous,35.91892,11.86487,987.8378,148
+Rest of Tas.,"Employed, worked part-time",Not well,Male,Non-Indigenous,42.625,12,500,8
+Rest of Tas.,"Employed, worked part-time",Very well,Male,Non-Indigenous,43.36076,11.60759,661.5507,158
+Rest of Tas.,"Employed, worked part-time",Well,Male,Non-Indigenous,32.60606,11.81818,359.8485,66
+Rest of Vic.,"Employed, worked full-time",Very well,Male,Aboriginal and/or Torres Strait Islander,52,12,1750,3
+Rest of Vic.,"Employed, worked full-time",Not at all,Male,Non-Indigenous,31.23077,10.84615,561.5385,13
+Rest of Vic.,"Employed, worked full-time",Not well,Male,Non-Indigenous,39.69947,10.45213,767.4202,376
+Rest of Vic.,"Employed, worked full-time",Very well,Male,Non-Indigenous,41.22054,11.39833,1246.815,7441
+Rest of Vic.,"Employed, worked full-time",Well,Male,Non-Indigenous,40.17007,11.19968,966.4962,1858
+Rest of Vic.,"Employed, worked part-time",Not at all,Male,Non-Indigenous,22,12,500,3
+Rest of Vic.,"Employed, worked part-time",Not well,Male,Non-Indigenous,39.61538,10.85385,419.2308,130
+Rest of Vic.,"Employed, worked part-time",Very well,Male,Non-Indigenous,39.74819,11.43524,631.9855,1521
+Rest of Vic.,"Employed, worked part-time",Well,Male,Non-Indigenous,35.56551,11.44113,456.7164,603
+Rest of WA,"Employed, worked full-time",Very well,Male,Aboriginal and/or Torres Strait Islander,38.36364,10.41259,900.3497,143
+Rest of WA,"Employed, worked full-time",Well,Male,Aboriginal and/or Torres Strait Islander,28.35135,10.35135,417.5676,37
+Rest of WA,"Employed, worked full-time",Not at all,Male,Non-Indigenous,41.25532,11.17021,1580.851,47
+Rest of WA,"Employed, worked full-time",Not well,Male,Non-Indigenous,38.45705,11.55521,1389.11,326
+Rest of WA,"Employed, worked full-time",Very well,Male,Non-Indigenous,39.93546,11.483,1690.007,4323
+Rest of WA,"Employed, worked full-time",Well,Male,Non-Indigenous,38.96499,11.49273,1451.007,1514
+Rest of WA,"Employed, worked part-time",Not well,Male,Aboriginal and/or Torres Strait Islander,32,10,250,3
+Rest of WA,"Employed, worked part-time",Very well,Male,Aboriginal and/or Torres Strait Islander,33.0955,9.91573,277.2472,178
+Rest of WA,"Employed, worked part-time",Well,Male,Aboriginal and/or Torres Strait Islander,30.37079,9.11236,184.2697,89
+Rest of WA,"Employed, worked part-time",Not well,Male,Non-Indigenous,31.125,11.4,550,40
+Rest of WA,"Employed, worked part-time",Very well,Male,Non-Indigenous,40.25153,11.56237,1058.384,489
+Rest of WA,"Employed, worked part-time",Well,Male,Non-Indigenous,36.09794,11.69072,877.3196,194
